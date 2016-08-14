@@ -1,10 +1,4 @@
-# NCHU-python-Parser (中興大學課程爬蟲)
-
-興大的計資中心有按照我的需求產出一份**類似**json的東西  但時常會出現不合法的字元,使得整份json噴掉，且計中提供的格式是format過的，所以這個parser可以將它minify、過濾資料內空白、空行，倘若學校資料來源不幸無法運作，請使用自製的
-
-[Crawler](fallback)
-=======
-# NCHU-python-Parser (中興大學課程爬蟲)[![Build Status](https://travis-ci.org/NCHUSG/Crawler-NCHU-course.svg?branch=master)](https://travis-ci.org/NCHUSG/Python-Crawler)
+# NCHU-python-Parser (中興大學課程爬蟲)[![Build Status](https://travis-ci.org/Stufinite/Crawler-NCHU-course.svg?branch=master)](https://travis-ci.org/NCHUSG/Python-Crawler)
 
 興大的計資中心有按照我的需求產出一份**類似**json的東西  但時常會出現不合法的字元,使得整份json噴掉，且計中提供的格式是format過的，所以這個parser可以將它minify、過濾資料內空白、空行，倘若學校資料來源不幸無法運作，請採用替代方案：
   * 使用自製的[Crawler](fallback)
