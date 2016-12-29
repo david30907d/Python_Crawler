@@ -25,4 +25,3 @@ for index, i in enumerate(soup.select('img')):
         del ires
     except Exception as e:
         print(i)
-Chat Conversation End
